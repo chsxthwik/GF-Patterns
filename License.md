@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 Shiv Chouhan (1ndianl33t)
+Copyright (c) 2020 CH SATHWIK
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
